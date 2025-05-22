@@ -28,7 +28,7 @@ Criativo is a professionally designed landing page for creative agencies. It fea
 ## 🌐 Live Demo
 
 You can view the live version of the website here:  
-👉 **[Your Website Link Here](https://your-live-link.com)**
+👉 **[Your Website Link Here](https://alaqili-criativo.netlify.app/)**
 
 _(Replace the link above with your real domain or hosting URL.)_
 
